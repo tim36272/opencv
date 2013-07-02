@@ -424,7 +424,7 @@ Re-initializes Kalman filter. The previous content is destroyed.
 
 .. ocv:function:: void KalmanFilter::init(int dynamParams, int measureParams, int controlParams=0, int type=CV_32F)
 
-    :param dynamParams: Dimensionalityensionality of the state.
+    :param dynamParams: Dimensionality of the state.
 
     :param measureParams: Dimensionality of the measurement.
 
